@@ -1,4 +1,4 @@
-name: Codacy CI
+name: Codacy  CI
 
 on:
   push:
